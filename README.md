@@ -24,9 +24,9 @@
   - [ ] [WebLogic](https://github.com/luckyfuture0177/VULOnceMore/blob/main/Java%E6%A1%86%E6%9E%B6/Weblogic%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0.md)
   
 - [ ] PHP
-  - [x] phpmyadmin4.8.1文件包含漏洞CVE-2018-12613
+  - [x] [phpmyadmin4.8.1文件包含漏洞CVE-2018-12613](https://github.com/luckyfuture0177/VULOnceMore/blob/main/PHP%E6%A1%86%E6%9E%B6/phpmyadmin4.8%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB.md)
 
-  - [x] Discuz! 6.x/7.x 全局变量防御绕过漏洞
+  - [x] [Discuz! 6.x/7.x 全局变量防御绕过漏洞](https://github.com/luckyfuture0177/VULOnceMore/blob/main/PHP%E6%A1%86%E6%9E%B6/Discuz!6.x7.x%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E9%98%B2%E5%BE%A1%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E.md)
 
   - [ ] php反序列化
 
