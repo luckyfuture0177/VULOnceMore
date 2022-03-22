@@ -1,6 +1,10 @@
 # VULOnceMore
 漏洞复现是安全学习的基础
 
+## 漏洞复现
+
+> 最新or经典漏洞原理以及复现
+
 - [ ] 服务器中间件
 
   - [x] [Redis未授权访问](https://github.com/luckyfuture0177/VULOnceMore/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis%E6%9C%AA%E6%8E%88%E6%9D%83%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6RCE.md)
@@ -25,7 +29,11 @@
 
 - [ ] 
 
+### 战术技巧
 
+> 记录实战中的利用姿势
+
+[SQL注入利用总结](https://github.com/luckyfuture0177/VULOnceMore/blob/main/%E6%88%98%E6%9C%AF%E6%8A%80%E5%B7%A7/SQL%E6%B3%A8%E5%85%A5%E5%88%A9%E7%94%A8%E6%80%BB%E7%BB%93.md)
 
 
 
