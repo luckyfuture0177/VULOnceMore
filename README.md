@@ -3,7 +3,7 @@
 
 ## 漏洞复现
 
-> 最新or经典漏洞原理以及复现
+> 最新or经典漏洞原理以及复现，在精不在多。
 
 - [ ] 服务器中间件
 
@@ -28,8 +28,10 @@
 
   - [x] [Discuz! 6.x/7.x 全局变量防御绕过漏洞](https://github.com/luckyfuture0177/VULOnceMore/blob/main/PHP%E6%A1%86%E6%9E%B6/Discuz!6.x7.x%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E9%98%B2%E5%BE%A1%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E.md)
 
-  - [ ] php反序列化
+  - [ ] ThinkPHP
 
+  - [ ] php反序列化
+  
 - [ ] Python
   - [ ] ssti模板注入
 
@@ -37,7 +39,7 @@
 
 ## 战术技巧
 
-> 记录实战中的利用姿势
+> 记录实战中的利用姿势，力求利用效果最大化。
 
 [SQL注入利用总结](https://github.com/luckyfuture0177/VULOnceMore/blob/main/%E6%88%98%E6%9C%AF%E6%8A%80%E5%B7%A7/SQL%E6%B3%A8%E5%85%A5%E5%88%A9%E7%94%A8%E6%80%BB%E7%BB%93.md)
 
