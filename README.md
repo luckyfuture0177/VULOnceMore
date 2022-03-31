@@ -33,7 +33,7 @@
   - [ ] php反序列化
   
 - [ ] Python
-  - [ ] ssti模板注入
+  - [x] [ssti模板注入](https://github.com/luckyfuture0177/VULOnceMore/blob/main/Python%E6%A1%86%E6%9E%B6/FlaskSSTI%E6%B3%A8%E5%85%A5.md)
 
 - [ ] 
 
